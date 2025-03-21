@@ -1,4 +1,4 @@
-# NVJOB_Cloud_Chat
+# NVJOB Cloud Chat
 
 Исходник кода на Python пока недоступен.
 
